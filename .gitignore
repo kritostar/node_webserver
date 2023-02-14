@@ -2,5 +2,3 @@
 node_modules/
 .env
 back
-app_old.js
-package-lock.json
